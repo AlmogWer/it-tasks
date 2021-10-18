@@ -1,25 +1,32 @@
 {
   "logs": [
     {
-      "id": 1,
-      "message": "Changed hard drive on workstation 005",
-      "attention": false,
-      "date": "03-02-2019",
-      "tech": "Sam Smith"
-    },
-    {
-      "id": 2,
-      "message": "Changed hard drive on workstation 006",
+      "message": "Changed network card on server",
       "attention": true,
-      "date": "03-03-2019",
-      "tech": "John Doe"
+      "tech": "Almog Wer",
+      "date": "2021-10-18T14:53:07.635Z",
+      "id": 1
     },
     {
-      "id": 3,
-      "message": "Changed hard drive on workstation 007",
+      "message": "Changed station in 112",
       "attention": false,
-      "date": "03-02-2019",
-      "tech": "Sara"
+      "tech": "Or Miz",
+      "date": "2021-10-18T14:53:24.554Z",
+      "id": 2
+    },
+    {
+      "message": "Hard Drive failed in 003",
+      "attention": true,
+      "tech": "Alon Sha",
+      "date": "2021-10-18T14:53:37.584Z",
+      "id": 3
+    },
+    {
+      "message": "New screen needed at 006",
+      "attention": true,
+      "tech": "Almog Wer",
+      "date": "2021-10-18T14:53:56.720Z",
+      "id": 4
     }
   ],
   "techs": [
