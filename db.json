@@ -15,20 +15,6 @@
       "id": 4
     },
     {
-      "message": "Station 003 - Changed network card on server",
-      "attention": false,
-      "tech": "John Doe",
-      "date": "2021-10-19T12:33:27.050Z",
-      "id": 5
-    },
-    {
-      "message": "Station 010 - Defect keyboard",
-      "attention": true,
-      "tech": "Alon Shar",
-      "date": "2021-10-19T12:33:50.770Z",
-      "id": 6
-    },
-    {
       "message": "work failure",
       "attention": false,
       "tech": "John Doe",
@@ -41,6 +27,13 @@
       "tech": "New Tech",
       "date": "2021-10-19T12:35:29.910Z",
       "id": 8
+    },
+    {
+      "message": "fixed 002 hard drive",
+      "attention": false,
+      "tech": "Almog Wer",
+      "date": "2021-10-19T12:50:02.314Z",
+      "id": 9
     }
   ],
   "techs": [
@@ -61,7 +54,7 @@
     },
     {
       "firstName": "New",
-      "lastName": "Tech",
+      "lastName": "Tech!",
       "id": 6
     }
   ]
