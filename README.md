@@ -1,70 +1,68 @@
-# Getting Started with Create React App
+<h1 align="center">IT-Tasks</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Project Description
 
-## Available Scripts
+React project - IT ticket management app with add/edit/delete logs and techs (json-server mocks up the back-end)
 
-In the project directory, you can run:
+## Built with
 
-### `npm start`
+- HTML
+- CSS
+- React
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+# npm-start
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+[npm start](https://docs.npmjs.com/cli/v7/commands/npm-start)
 
-### `npm test`
+```
+npm install
+```
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+```
+npm-start -g
 
-### `npm run build`
+```
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Links
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- [Repo](https://github.com/AlmogWer/it-tasks 'it-tasks Repo')
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Screenshots & Animation
 
-### `npm run eject`
+![](img/Animation.gif 'Showcase')
+![](img/Capture.PNG 'Home Page')
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## Author
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- [Almogwer](https://github.com/almogwer)
+- [Mail](mailto:Almogish@gmail.com?Subject=Hi% 'Hi!')
+- [Linkedin](https://www.linkedin.com/in/almogwertzberger/)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+## Materialize
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+[Materialize - Main Docs](https://materializecss.com/)
 
-## Learn More
+```jsx
+import 'materialize-css/dist/css/materialize.min.css';
+```
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Materialize Icons
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+[Materialize Icons - Main Docs](hhttps://google.github.io/material-design-icons/)
 
-### Code Splitting
+```jsx
+import M from 'materialize-css/dist/js/materialize.min.js';
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## Concurrently
 
-### Analyzing the Bundle Size
+- [Concurrently - Main Docs](https://www.npmjs.com/package/concurrently)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+## JSON-Server
 
-### Making a Progressive Web App
+- [JSON-Server - Main Docs](https://www.npmjs.com/package/json-server)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+## Redux
 
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- [Redux - Main Docs](https://redux.js.org/)
+- [Redux - API Ref](https://redux.js.org/api/api-reference)

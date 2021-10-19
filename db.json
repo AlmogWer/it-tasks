@@ -1,45 +1,49 @@
 {
   "logs": [
     {
-      "message": "Changed network card on server",
+      "id": 3,
+      "message": "Station 006 - Cables",
+      "attention": false,
+      "tech": "Almog Wer",
+      "date": "2021-10-19T12:34:56.756Z"
+    },
+    {
+      "message": "Station 008 - Require 2nd tier",
       "attention": true,
       "tech": "Almog Wer",
-      "date": "2021-10-18T14:53:07.635Z",
-      "id": 1
-    },
-    {
-      "message": "Changed station in 112",
-      "attention": false,
-      "tech": "Or Miz",
-      "date": "2021-10-18T14:53:24.554Z",
-      "id": 2
-    },
-    {
-      "id": 3,
-      "message": "Hard Drive failed in 005",
-      "attention": false,
-      "tech": "Almog Wer",
-      "date": "2021-10-18T15:20:00.677Z"
-    },
-    {
-      "message": "123",
-      "attention": false,
-      "tech": "Alon Shar",
-      "date": "2021-10-19T12:16:07.058Z",
+      "date": "2021-10-19T12:33:11.226Z",
       "id": 4
+    },
+    {
+      "message": "Station 003 - Changed network card on server",
+      "attention": false,
+      "tech": "John Doe",
+      "date": "2021-10-19T12:33:27.050Z",
+      "id": 5
+    },
+    {
+      "message": "Station 010 - Defect keyboard",
+      "attention": true,
+      "tech": "Alon Shar",
+      "date": "2021-10-19T12:33:50.770Z",
+      "id": 6
+    },
+    {
+      "message": "work failure",
+      "attention": false,
+      "tech": "John Doe",
+      "date": "2021-10-19T12:35:09.501Z",
+      "id": 7
+    },
+    {
+      "message": "Failure",
+      "attention": false,
+      "tech": "New Tech",
+      "date": "2021-10-19T12:35:29.910Z",
+      "id": 8
     }
   ],
   "techs": [
-    {
-      "id": 1,
-      "firstName": "Sam",
-      "lastName": "Smith"
-    },
-    {
-      "id": 2,
-      "firstName": "John",
-      "lastName": "Doe"
-    },
     {
       "id": 3,
       "firstName": "Almog",
@@ -54,6 +58,11 @@
       "firstName": "Avihai",
       "lastName": "Naf",
       "id": 5
+    },
+    {
+      "firstName": "New",
+      "lastName": "Tech",
+      "id": 6
     }
   ]
 }
